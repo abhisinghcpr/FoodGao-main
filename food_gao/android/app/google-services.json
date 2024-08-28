@@ -1,0 +1,222 @@
+{
+  "project_info": {
+    "project_number": "833025637450",
+    "project_id": "foodgao-ca9a2",
+    "storage_bucket": "foodgao-ca9a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833025637450:android:a62d6c79be189468a2bab3",
+        "android_client_info": {
+          "package_name": "com.example.food_gao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833025637450-2jss00315u266jjvuj28ei73uj9n2jtp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_gao",
+            "certificate_hash": "84def7d352737698a04dc2aa82d9de6b0f439816"
+          }
+        },
+        {
+          "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCdbiEDNBXrt224_ZarpSyoV6MYRhpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833025637450-6cda3t4es5b9otlr6ql1use5eqj21rn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodGaoDeleveryPartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833025637450:android:4791da9cf28063c6a2bab3",
+        "android_client_info": {
+          "package_name": "com.example.food_gao_delevery_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833025637450-7ks6u211h5snpfq6o7sef819dga43svn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_gao_delevery_partner",
+            "certificate_hash": "6c5eaf4d611bf05080d20630ae604075e8f43c9c"
+          }
+        },
+        {
+          "client_id": "833025637450-frql7k5ssjq1t9rnd9iuil99he7t6018.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_gao_delevery_partner",
+            "certificate_hash": "01bc573db28618c1a18dc68455ed98cecbc0082c"
+          }
+        },
+        {
+          "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCdbiEDNBXrt224_ZarpSyoV6MYRhpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833025637450-6cda3t4es5b9otlr6ql1use5eqj21rn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodGaoDeleveryPartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833025637450:android:7cc7378b8c544b9fa2bab3",
+        "android_client_info": {
+          "package_name": "com.example.foodgeo_partner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833025637450-ttkukt6scdrngcvmjeomu87t212mkr1p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.foodgeo_partner",
+            "certificate_hash": "b06c3a7e2d8a33a6f7821b606442dc69ff40f2f1"
+          }
+        },
+        {
+          "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCdbiEDNBXrt224_ZarpSyoV6MYRhpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833025637450-6cda3t4es5b9otlr6ql1use5eqj21rn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodGaoDeleveryPartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833025637450:android:37d38a6873df359ca2bab3",
+        "android_client_info": {
+          "package_name": "com.example.zomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCdbiEDNBXrt224_ZarpSyoV6MYRhpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833025637450-6cda3t4es5b9otlr6ql1use5eqj21rn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodGaoDeleveryPartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833025637450:android:1546cd9159020c8fa2bab3",
+        "android_client_info": {
+          "package_name": "com.example.zomato_apps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuCdbiEDNBXrt224_ZarpSyoV6MYRhpX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833025637450-nvvm7ir6or1q4ajv11vrta84dglg072s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833025637450-6cda3t4es5b9otlr6ql1use5eqj21rn1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.foodGaoDeleveryPartner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
